@@ -6,6 +6,9 @@ Está diseñada para municipalidades e instituciones públicas que necesitan una
 
 ---
 
+## 🟢 **Para visualizar el video del software este debe ser descargado ya que github no tiene repoductor de video**
+
+
 **Paso1:** Seleccionar el directorio donde se encuentran los videos.
 
 <img width="1916" height="693" alt="inventario1" src="https://github.com/user-attachments/assets/33dbad13-9975-4474-8346-03c73039cb0f" />
