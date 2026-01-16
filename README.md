@@ -3,7 +3,31 @@
 ¡Bienvenido al Sistema de Gestión de Inventario Municipal! 🚀
 Esta plataforma web permite administrar y gestionar el inventario de espacios físicos de forma eficiente en una municipalidad, integrando control de usuarios, gestión de espacios, movimientos de inventario y reportes 📋.
 Está diseñada para municipalidades e instituciones públicas que necesitan una gestión centralizada y ordenada de su inventario y espacios 🔥
-``
+
+---
+
+**Paso1:** Seleccionar el directorio donde se encuentran los videos.
+
+<img width="1916" height="693" alt="inventario1" src="https://github.com/user-attachments/assets/33dbad13-9975-4474-8346-03c73039cb0f" />
+
+
+
+**Paso2:** Seleccionar un video que se encuentre dentro del directorio.
+
+<img width="1915" height="603" alt="inventario2" src="https://github.com/user-attachments/assets/7f0e8cc0-06e3-49ba-8f54-919d21a8de81" />
+
+
+
+**Paso3:** Descaragr el video seleccionado.
+
+
+<img width="1918" height="572" alt="inventario3 " src="https://github.com/user-attachments/assets/1bade91a-0231-4fd4-870e-81d30ad5aaa4" />
+
+
+
+
+
+
 ---
 
 ## 📜 **Descripción General**
